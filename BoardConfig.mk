@@ -169,10 +169,10 @@ TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
 
 # Default language
-TW_DEFAULT_LANGUAGE := zh_CN
+TW_DEFAULT_LANGUAGE := en
 
 # Add TW_DEVICE_VERSION
-TW_DEVICE_VERSION := v1.7_by-Luke_Corden
+TW_DEVICE_VERSION := v1.7_Recomp_by_Loaf
 
 # Fix Android 13 Decryption
 PLATFORM_VERSION := 13
